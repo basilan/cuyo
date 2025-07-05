@@ -1,0 +1,48 @@
+{
+  "candidateId": "sample-executive-001",
+  "version": "1.2",
+  "generatedDate": "2025-07-04",
+  "personalInfo": {
+    "name": "[Name Redacted]",
+    "location": "Major Metropolitan Area",
+    "workArrangement": "Remote globally preferred, hybrid options considered",
+    "currentRole": "Senior Technology Executive"
+  },
+  "targetPreferences": {
+    "salaryMinimum": 350000,
+    "currency": "USD",
+    "salaryType": "base",
+    "targetRoles": ["Chief AI Officer", "VP Technology", "Practice Lead"],
+    "preferredCompanies": ["BCG", "McKinsey", "Accenture", "Major Tech Companies"]
+  },
+  "professionalSummary": {
+    "yearsExperience": 20,
+    "specializations": ["AI/ML", "Digital Transformation", "Team Leadership"],
+    "keyExperience": "Technology executive with proven track record of building AI-powered solutions and leading global teams"
+  },
+  "keyAchievements": [
+    {
+      "category": "Revenue Impact",
+      "achievement": "Led initiatives resulting in $500M+ revenue growth",
+      "verified": true
+    },
+    {
+      "category": "Team Leadership", 
+      "achievement": "Built and managed 250+ consultant organization across three regions",
+      "verified": true
+    }
+  ],
+  "coreCompetencies": {
+    "technical": ["AI/ML", "Cloud Platforms", "Software Architecture"],
+    "business": ["Strategy", "P&L Management", "Business Development"],
+    "leadership": ["Team Building", "Change Management", "Crisis Management"]
+  },
+  "marketingHooks": [
+    "Former technology executive who built AI solutions serving 60,000+ users",
+    "Global team leader with proven track record of scaling consulting organizations"
+  ],
+  "differentiators": [
+    "Unique combination of technical depth and executive leadership at scale",
+    "Proven crisis management with quantified client satisfaction improvements"
+  ]
+}

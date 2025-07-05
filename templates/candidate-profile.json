@@ -1,0 +1,42 @@
+{
+  "candidateId": "template-example-001",
+  "version": "1.2",
+  "generatedDate": "2025-07-04",
+  "personalInfo": {
+    "name": "[Your Full Name]",
+    "location": "[City, State/Country]",
+    "workArrangement": "[Remote/Hybrid preferences]",
+    "currentRole": "[Current Position Title]"
+  },
+  "targetPreferences": {
+    "salaryMinimum": 350000,
+    "currency": "USD",
+    "salaryType": "base",
+    "targetRoles": ["Chief AI Officer", "VP Technology", "Practice Lead"],
+    "preferredCompanies": ["Target Company 1", "Target Company 2"],
+    "excludeCompanies": ["Company to Avoid"]
+  },
+  "professionalSummary": {
+    "yearsExperience": 20,
+    "specializations": ["AI/ML", "Digital Transformation", "Leadership"],
+    "keyExperience": "[Brief summary of your background]"
+  },
+  "keyAchievements": [
+    {
+      "category": "Revenue Impact",
+      "achievement": "[Quantified business achievement]",
+      "verified": true
+    }
+  ],
+  "coreCompetencies": {
+    "technical": ["AI/ML", "Cloud Platforms", "Software Development"],
+    "business": ["Strategy", "P&L Management", "Business Development"],
+    "leadership": ["Team Building", "Change Management", "Executive Communication"]
+  },
+  "marketingHooks": [
+    "[Compelling value proposition that differentiates you]"
+  ],
+  "differentiators": [
+    "[Unique competitive advantage in your field]"
+  ]
+}
